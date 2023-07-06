@@ -1,0 +1,12 @@
+.divv3 {
+    background-image: url('../Bg.jpg');
+    min-height: 500px;
+}
+
+.high {
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 200px;
+    font-weight: bold;
+}
